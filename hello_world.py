@@ -1,1 +1,1 @@
-print("Hello World, Welcome to Mindtree!!")
+print("Hello World, Welcome to Mindtree")
